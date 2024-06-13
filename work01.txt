@@ -1,0 +1,29 @@
+
+git --version -  to check git version
+ 
+git init  : for instalize git
+
+git add filename :  for tracking file
+
+git status : for view status
+
+git add . or git add -A: for add all file in a project
+
+git commit -m "initial commit" : for perment the file
+
+git remote add origin https://github.com/sachinraj-kv/project-01.git; : copy from git hub
+
+git remote : to view weather it establish athe connection
+
+git push origin master : for uplaode to git hub
+
+git pull orgin master: 
+
+git branch : to know which branch is it exist
+
+git branch "title-update" : to create a new branch
+
+git clone : used clown 
+
+git checkout branch name: to change the branch  
+
