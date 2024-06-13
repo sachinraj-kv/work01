@@ -1,0 +1,7 @@
+git : Git is a free and open source software for distributed version control, which means that it tracks changes in any set of files, 
+      usually for software development.It enables you to store code, track revision history, merge code changes, and revert to earlier code
+      versions when needed
+
+github : GitHub is one of the most well-known tools among developers. Every developer out there knows how to use GitHub 
+       one way or the other. GitHub provides an array of functionalities and boasts a supportive community to help any new 
+       developers just starting GitHub.It is a code-hosting platform where users can update codes or files and track their updates
